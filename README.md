@@ -43,31 +43,30 @@ Focuses on sales performance, profitability, and geographic trends for cookie pr
 
 ---
 
-  Dataset
+ ## 📂 Dataset
 
-The dataset is available in the sheet DATA, supported by multiple summary tables.
-It includes fields such as:
+The Dataset lives in **<a href="https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Data.xlsx">RAW DATA</a>** and includes the following columns:
 
-Date — Transaction date
+- **Date** — Transaction date
 
-Product / Cookie Type — Category of cookie sold
+- **Cookie Type** — Category of cookie sold
 
-Country — Country of transaction
+- **Country** — Country of transaction
 
-Units Sold — Number of cookies sold
+- **Units Sold** — Number of cookies sold
 
-Revenue / Sales — Sales amount
+- **Sales** — Sales amount
 
-Profit — Profit generated
+- **Profit** — Profit generated
 
 
 Supporting analysis sheets:
 
-Profit by Month — Monthly profitability trend
+- **Profit by Month** — Monthly profitability trend
 
-Unit Sold Each Month — Sales volume across time
+- **Unit Sold Each Month** — Sales volume across time
 
-Profit by Country and Cookie — Regional and product-wise breakdown
+- **Profit by Country and Cookie** — Regional and product-wise breakdown
 
 
 
