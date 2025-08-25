@@ -3,14 +3,14 @@ Transforming raw cookie sales data into powerful business insights  This project
 
 ---
 
-Cookie Sales Dashboard 2023
+Cookie Sales Dashboard 2019-2020
 
 
 ---
 
   Dashboard Preview
 
-(Insert screenshot of your Dashboard here)
+<img width="1162" height="504" alt="Dashboard" src="https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Dashboard.png" />
 
 
 ---
