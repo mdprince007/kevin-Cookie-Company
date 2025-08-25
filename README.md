@@ -8,7 +8,7 @@ Cookie Sales Dashboard 2019-2020
 
 
 
-  Dashboard Preview
+ ## Dashboard Preview
 
 <img width="1162" height="504" alt="Dashboard" src="https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Dashboard.png" />
 
