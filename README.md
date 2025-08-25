@@ -143,15 +143,15 @@ Monitor country-cookie combinations to optimize pricing and supply chain.
 
 3. Explore sheets for:
 
-DATA → raw and cleaned data
+- DATA → raw and cleaned data
 
-Profit by Month → monthly profitability trends
+- Profit by Month → monthly profitability trends
 
-Unit Sold Each Month → sales volume insights
+- Unit Sold Each Month → sales volume insights
 
-Profit by Country and Cookie → geographic/product performance
+- Profit by Country and Cookie → geographic/product performance
 
-Dashboard → interactive analysis view
+- Dashboard → interactive analysis view
 
 
 
