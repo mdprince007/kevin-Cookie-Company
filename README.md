@@ -88,17 +88,19 @@ Combined all visualizations into a single interactive dashboard.
 
  ## Key Questions (KPIs)
 
-Which month had the highest sales and profit?
+- Which month had the highest sales and profit?
 
-Which cookie type generates the most profit?
+- Which cookie type generates the most profit?
 
-How do sales trends vary across months?
+- How do sales trends vary across months?
 
-Which countries contribute the most to profit?
+- Which countries contribute the most to profit?
 
-How many units are sold monthly across categories?
+- How many units are sold monthly across categories?
 
-Which country-cookie combination is most profitable?
+- Which country-cookie combination is most profitable?
+  
+- Dashboard Interaction <a href=" https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Dashboard.png ">**View Dashboard**</a>
 
 
 
