@@ -1,19 +1,19 @@
 # kevin-Cookie-Company
 Transforming raw cookie sales data into powerful business insights  This project is an Excel-based analytics dashboard, analyzing cookie sales across countries, months, and product types. It highlights skills in data cleaning, aggregation, and visualization, turning transactional records into actionable insights for business decisions.
 
----
+
 
 Cookie Sales Dashboard 2019-2020
 
 
----
+
 
   Dashboard Preview
 
 <img width="1162" height="504" alt="Dashboard" src="https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Dashboard.png" />
 
 
----
+
 
   ## Table of Contents
 
@@ -29,7 +29,7 @@ Cookie Sales Dashboard 2019-2020
 
 
 
----
+
 
  ## About
 
@@ -41,7 +41,7 @@ Focuses on sales performance, profitability, and geographic trends for cookie pr
 
 
 
----
+
 
  ## 📂 Dataset
 
@@ -70,7 +70,7 @@ The Dataset lives in **<a href="https://github.com/mdprince007/kevin-Cookie-Comp
 
 
 
----
+
 
  ## Process
 
@@ -84,7 +84,7 @@ Combined all visualizations into a single interactive dashboard.
 
 
 
----
+
 
  ## Key Questions (KPIs)
 
@@ -104,7 +104,6 @@ Combined all visualizations into a single interactive dashboard.
 
 
 
----
 
 ##  Project Insights
 
@@ -118,7 +117,6 @@ Units sold and profit do not always scale equally — highlighting cost differen
 
 
 
----
 
 ##  Final Conclusion
 
@@ -132,7 +130,6 @@ Monitor country-cookie combinations to optimize pricing and supply chain.
 
 
 
----
 
 ##  Usage
 
@@ -157,7 +154,7 @@ Monitor country-cookie combinations to optimize pricing and supply chain.
 
 
 
----
+
 
  ## Skills Learned
 
