@@ -15,25 +15,17 @@ Cookie Sales Dashboard 2019-2020
 
 ---
 
-  Table of Contents
+  ## Table of Contents
 
-About
-
-Dataset
-
-Process
-
-Key Questions (KPIs)
-
-Project Insights
-
-Final Conclusion
-
-Usage
-
-Skills Learned
-
-License
+- [About](#about)
+- [Dataset](#dataset)
+- [Process](#process)
+- [Key Questions (KPIs)](#key-questions-kpis)
+- [Project Insights](#project-insights)
+- [Final Conclusion](#final-conclusion)
+- [Usage](#usage)
+- [Skills Learned](#skills-learned)
+- [License](#license)
 
 
 
