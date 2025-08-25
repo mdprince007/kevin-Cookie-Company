@@ -31,7 +31,7 @@ Cookie Sales Dashboard 2019-2020
 
 ---
 
-  About
+ ## About
 
 Built entirely in Microsoft Excel.
 
@@ -60,7 +60,7 @@ The Dataset lives in **<a href="https://github.com/mdprince007/kevin-Cookie-Comp
 - **Profit** — Profit generated
 
 
-Supporting analysis sheets:
+# Supporting analysis sheets:
 
 - **Profit by Month** — Monthly profitability trend
 
@@ -72,7 +72,7 @@ Supporting analysis sheets:
 
 ---
 
-  Process
+ ## Process
 
 Cleaned and standardized raw transactional data.
 
@@ -86,7 +86,7 @@ Combined all visualizations into a single interactive dashboard.
 
 ---
 
-  Key Questions (KPIs)
+ ## Key Questions (KPIs)
 
 Which month had the highest sales and profit?
 
@@ -104,7 +104,7 @@ Which country-cookie combination is most profitable?
 
 ---
 
-  Project Insights
+##  Project Insights
 
 Sales show seasonal patterns, with clear monthly peaks.
 
@@ -118,7 +118,7 @@ Units sold and profit do not always scale equally — highlighting cost differen
 
 ---
 
-  Final Conclusion
+##  Final Conclusion
 
 To maximize growth:
 
@@ -132,7 +132,7 @@ Monitor country-cookie combinations to optimize pricing and supply chain.
 
 ---
 
-  Usage
+##  Usage
 
 1. Download Dashboard (1).xlsb from this repository.
 
@@ -158,7 +158,7 @@ Dashboard → interactive analysis view
 
 ---
 
-  Skills Learned
+ ## Skills Learned
 
 Excel-based Data Cleaning & Standardization
 
