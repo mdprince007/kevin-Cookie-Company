@@ -134,7 +134,7 @@ Monitor country-cookie combinations to optimize pricing and supply chain.
 ##  Usage
 
 1. Download **<a href=" https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Data.xlsx ">RAW DATA</a>** from this repository.  
-2. Download Full Working File **<a href=" https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Dashboard.xlsb ">Full file</a>** from this repository.  
+2. Download Full Working File **<a href=" https://github.com/mdprince007/kevin-Cookie-Company/blob/main/Dashboard.xlsb ">**Full file</a>** from this repository.  
 3. Open in Microsoft Excel .
 
 
